@@ -8,3 +8,6 @@ https://app.100xdevs.com/courses/13/408/464
 
 ## Week 2
 https://projects.100xdevs.com/tracks/public-private-keys/Public-Key-Cryptography-1
+
+## Week 3
+https://projects.100xdevs.com/tracks/web-wallet-rpc/Creating-a-web-based-wallet--RPCs-1 
